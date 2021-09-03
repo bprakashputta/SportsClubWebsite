@@ -1,0 +1,48 @@
+
+body{
+    background-color: #ffffff;
+}
+
+/* Nav */
+nav{
+    list-style: none;
+    background: #ffffff;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 2%;
+}
+
+.cm-cont-info{
+    padding-top: 0px;
+    margin-top: 0px;
+    background: #ffffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cm-inst-counc{
+    color: #c8c0c0;
+}
+
+.cm-cont-team{
+    margin-top: 100px;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+

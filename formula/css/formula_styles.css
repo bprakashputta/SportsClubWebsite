@@ -1,0 +1,70 @@
+nav{
+    list-style: none;
+    background: #706e6e;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+a{
+    text-decoration:none;
+}
+
+nav a{
+    color: #ffffff;
+}
+
+nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 2%;
+}
+/* About */
+main{
+    margin: 100px;
+    margin-left: 100px;
+}
+/*  */
+/* ---------------------------------------------------Contact----------------------------------------------------------- */
+
+.cm-urja-team{
+    text-align: center;
+    padding: 20px;
+}
+
+.cm-cont-img {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.cm-cont-img img{
+    border-radius: 50%;
+}
+
+.cm-cont-img li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right:25px;
+    padding-top: -10px;
+    text-align: center;
+}
+
+.cm-fac-coord {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 250px;
+}
+
+.cm-fac-coord img{
+    border-radius: 50%;
+}
+
+.cm-fac-coord li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right:25px;
+    padding-top: -10px;
+    text-align: center;
+}
+
+/* ------------------------------------------------------------------------------------------- */

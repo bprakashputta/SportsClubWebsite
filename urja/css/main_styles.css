@@ -1,0 +1,134 @@
+/* ----------------------------------------------------------Global--------------------------------------------------------------------- */
+body{
+    background: #ffffff;
+}
+
+/* header{
+    color: azure; 
+} */
+
+section{
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+}
+
+nav,footer{
+   background: #4c4c4d;
+    text-align: center;
+}
+
+nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    padding-right: 50px;
+    /* float: right; */
+    /* background: #4c4c4d; */
+}
+
+nav ul li{
+
+    color: #959595;
+    margin: 10px;
+}
+
+a{
+    color: #959595;
+    text-decoration: none;
+}
+
+main{
+    color: #1a1919;
+    block-size: auto;
+}
+
+footer{
+    position: relative;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+
+/* ----------------------------------------------------Events----------------------------------------------------------- */
+.container-fluid{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.cm-event-urja{
+    padding-bottom: 500px;
+
+}
+
+.cm-event-urja-text{
+    margin-top: 500px;
+    text-align: center  ;
+}
+
+/* ----------------------------------------------------About------------------------------------------------------------ */
+
+.container-fluid{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.cm-about-urja{
+    padding-bottom: 500px;
+
+}
+
+.cm-about-urja-text{
+    margin-top: 250px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------- */
+
+/* ---------------------------------------------------Contact----------------------------------------------------------- */
+
+.cm-urja-team{
+    text-align: center;
+    padding: 20px;
+}
+
+.cm-cont-img {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.cm-cont-img img{
+    border-radius: 50%;
+}
+
+.cm-cont-img li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right:25px;
+    padding-top: -10px;
+    text-align: center;
+}
+
+.cm-fac-coord {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 250px;
+}
+
+.cm-fac-coord img{
+    border-radius: 50%;
+}
+
+.cm-fac-coord li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right:25px;
+    padding-top: -10px;
+    text-align: center;
+}
+
+/* ------------------------------------------------------------------------------------------- */
